@@ -56,13 +56,13 @@ let Projects = ()=>{
         },
         {
             id:6, 
-            img:project6,
+            img:project7,
             url:"https://mohamedashraf366.github.io/Project6/",
             projectNo :"project6",
         },
         {
             id:7, 
-            img:project7,
+            img:project6,
             url:"https://mohamedashraf366.github.io/Project7/",
             projectNo :"project7",
         },
