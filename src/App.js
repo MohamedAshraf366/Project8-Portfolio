@@ -11,7 +11,7 @@ import AutoPlay from './components/skills';
 
 function App() {
   return (
-    <BrowserRouter basename='Project8-React-Portfolio'>
+    <BrowserRouter>
     <Header />
     <Home />
     <Skills />
