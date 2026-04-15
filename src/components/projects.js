@@ -20,6 +20,7 @@ import project15 from "../images/projrct15.jpeg";
 import project16 from "../images/projrct16.jpeg";
 import project17 from "../images/project17.jpeg";
 import project18 from "../images/project18.jpeg";
+import project19 from "../images/project19.jpeg";
 import { NavLink } from "react-router-dom";
 
 
@@ -121,6 +122,12 @@ let Projects = ()=>{
             img:project18,
             url:"https://project7-web-auth-bsyt-route-protection-mduj1j723.vercel.app/",
             projectNo :"project18",
+        },
+        {
+            id:19, 
+            img:project19,
+            url:"https://project9-web-sfht-landing-responsive-4qizjpmwq.vercel.app/",
+            projectNo :"project19",
         },
     ]
     useEffect(() => {
