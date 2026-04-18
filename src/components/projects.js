@@ -21,12 +21,19 @@ import project16 from "../images/projrct16.jpeg";
 import project17 from "../images/project17.jpeg";
 import project18 from "../images/project18.jpeg";
 import project19 from "../images/project19.jpeg";
+import project20 from "../images/project20.jpeg";
 import { NavLink } from "react-router-dom";
 
 
 
 let Projects = ()=>{
     let dataBoot = [
+        {
+            id:20, 
+            img:project20,
+            url:"https://dashboard-eqvs7fxnt-moahmed-ashrafs-projects.vercel.app/",
+            projectNo :"project20",
+        },
         {
             id:1, 
             img:project1,
