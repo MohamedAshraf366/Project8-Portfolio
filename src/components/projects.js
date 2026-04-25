@@ -22,6 +22,8 @@ import project17 from "../images/project17.jpeg";
 import project18 from "../images/project18.jpeg";
 import project19 from "../images/project19.jpeg";
 import project20 from "../images/project20.jpeg";
+import project21 from "../images/Agile-architect-aura.jpeg";
+import project22 from "../images/supplyq.jpeg";
 import { NavLink } from "react-router-dom";
 
 
@@ -33,6 +35,18 @@ let Projects = ()=>{
             img:project20,
             url:"https://dashboard-eqvs7fxnt-moahmed-ashrafs-projects.vercel.app/",
             projectNo :"project20",
+        },
+        {
+            id:21, 
+            img:project21,
+            url:"https://agile-architect-aura-main.vercel.app/",
+            projectNo :"project21",
+        },
+        {
+            id:22, 
+            img:project22,
+            url:"https://supplyq-e4d8h2m5d-moahmed-ashrafs-projects.vercel.app/",
+            projectNo :"project22",
         },
         {
             id:1, 
