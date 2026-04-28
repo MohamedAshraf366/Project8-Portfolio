@@ -24,6 +24,8 @@ import project19 from "../images/project19.jpeg";
 import project20 from "../images/project20.jpeg";
 import project21 from "../images/Agile-architect-aura.jpeg";
 import project22 from "../images/supplyq.jpeg";
+import project23 from "../images/HR.jpeg";
+import project24 from "../images/EduGrid.jpeg";
 import { NavLink } from "react-router-dom";
 
 
@@ -31,10 +33,22 @@ import { NavLink } from "react-router-dom";
 let Projects = ()=>{
     let dataBoot = [
         {
-            id:20, 
-            img:project20,
-            url:"https://dashboard-eqvs7fxnt-moahmed-ashrafs-projects.vercel.app/",
-            projectNo :"project20",
+            id:24, 
+            img:project24,
+            url:"https://edu-grid-bgg4poock-moahmed-ashrafs-projects.vercel.app/",
+            projectNo :"project24",
+        },
+        {
+            id:23, 
+            img:project23,
+            url:"https://frontend-4oxgbua8n-moahmed-ashrafs-projects.vercel.app/login",
+            projectNo :"project22",
+        },
+        {
+            id:22, 
+            img:project22,
+            url:"https://supplyq-e4d8h2m5d-moahmed-ashrafs-projects.vercel.app/",
+            projectNo :"project22",
         },
         {
             id:21, 
@@ -43,10 +57,10 @@ let Projects = ()=>{
             projectNo :"project21",
         },
         {
-            id:22, 
-            img:project22,
-            url:"https://supplyq-e4d8h2m5d-moahmed-ashrafs-projects.vercel.app/",
-            projectNo :"project22",
+            id:20, 
+            img:project20,
+            url:"https://dashboard-eqvs7fxnt-moahmed-ashrafs-projects.vercel.app/",
+            projectNo :"project20",
         },
         {
             id:1, 
