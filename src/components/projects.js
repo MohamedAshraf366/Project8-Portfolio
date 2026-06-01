@@ -26,12 +26,19 @@ import project21 from "../images/Agile-architect-aura.jpeg";
 import project22 from "../images/supplyq.jpeg";
 import project23 from "../images/HR.jpeg";
 import project24 from "../images/EduGrid.jpeg";
+import project25 from "../images/ironforge-gym.jpeg";
 import { NavLink } from "react-router-dom";
 
 
 
 let Projects = ()=>{
     let dataBoot = [
+        {
+            id:25, 
+            img:project25,
+            url:"https://ironforge-eqje7nj2z-moahmed-ashrafs-projects.vercel.app/",
+            projectNo :"project25",
+        },
         {
             id:24, 
             img:project24,
